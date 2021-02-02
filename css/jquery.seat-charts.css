@@ -32,7 +32,7 @@ div.seatCharts-seat:focus {
 */
 
 div.seatCharts-space {
-	background-color: white;
+	background-color: #f9fafe;
 }
 div.seatCharts-row {
 	height: 50px;
